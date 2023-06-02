@@ -34,7 +34,7 @@ import 'package:show_vm_info/show_vm_info.dart';
 ```
 
 ## Example
-Then call the showVMInfo() function to display the Dart VM debugging URL information in a popup dialog:
+Then call the ShowVMInfo.showDebugVmInfoDialog() function to display the Dart VM debugging URL information in a popup dialog:
 
 ```dart
 import 'package:flutter/material.dart';

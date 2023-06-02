@@ -2,7 +2,7 @@ name: show_vm_info
 description: A new Flutter package project.
 version: 1.0.0
 homepage: null
-repository: ''
+repository: 'https://github.com/183181731/show_vm_info.git'
 
 environment:
   sdk: '>=2.19.6 <3.0.0'

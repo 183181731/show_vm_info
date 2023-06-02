@@ -1,3 +1,5 @@
-## 0.0.1
+## [1.0.0] - 2023-06-02
 
-* TODO: Describe initial release.
+### Added
+- Added first version
+- Added windows platform support
